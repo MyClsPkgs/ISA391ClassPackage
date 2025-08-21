@@ -1,0 +1,13 @@
+---
+title: "Lecture #1"
+author: "Write Your Name"
+date: "2025-08-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You can use this folder to save your lecture notes and work on examples together with your professor.
+
