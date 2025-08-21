@@ -1,0 +1,86 @@
+﻿id,name,salary,cost,public,location
+1,Massachusetts Institute of Technology (MIT),119000,189300,0,3
+2,Harvard University,121000,189600,0,3
+3,Dartmouth College,123000,188400,0,3
+4,Princeton University,123000,188700,0,3
+5,Yale University,110000,194200,0,3
+6,University of Notre Dame,112000,181900,0,2
+7,University of Pennsylvania,111000,191300,0,3
+8,Duke University,117000,187600,0,1
+9,Lehigh University,111000,180400,0,3
+10,Worcester Polytechnic Institute (WPI),104000,184900,0,3
+11,Carnegie Mellon University (CMU),108000,190600,0,3
+12,Colgate University,119000,187700,0,3
+13,Columbia University,99700,192200,0,3
+14,Rensselaer Polytechnic Institute (RPI),109000,227300,0,3
+15,Georgetown University,104000,199800,0,1
+16,Brown University,109000,189800,0,3
+17,Rice University,100000,159400,0,1
+18,Colorado School of Mines,113000,95740,1,4
+19,Cornell University,106000,188200,0,3
+20,Lafayette College,107000,179500,0,3
+21,Georgia Institute of Technology,105000,79140,1,1
+22,College of the Holy Cross,106000,18260,0,3
+23,University Of Chicago,100000,195800,0,2
+24,Manhattan College,105000,137100,0,3
+25,University of Virginia (UVA),93900,74410,1,1
+26,Williams College,106000,183200,0,3
+27,Rose-Hulman Institute of Technology (RHIT),97300,166700,0,2
+28,Washington and Lee University,107000,177700,0,1
+29,Bucknell University,115000,184600,0,3
+30,Johns Hopkins University,90100,190100,0,1
+31,Swarthmore College,106000,188200,0,3
+32,The College of William and Mary,91700,74720,1,1
+33,Vanderbilt University,104000,193200,0,1
+34,Washington University In St. Louis,91400,194200,0,2
+35,University of Illinois at Urbana-Champaign (UIUC),96500,106500,1,2
+36,University of Michigan,90200,84690,1,2
+37,Carleton College,105000,182600,0,2
+38,Case Western Reserve University,98600,214400,0,2
+39,Virginia Polytechnic Institute and State University (Virginia Tech),94700,83270,1,1
+40,Northwestern University,91900,194400,0,2
+41,Texas A&M University,93300,88540,1,1
+42,George Washington University (GWU),93500,206100,0,1
+43,Brigham Young University (BYU),85900,58450,0,4
+44,Emory University,90000,184400,0,1
+45,New Jersey Institute of Technology (NJIT),101000,117400,1,3
+46,University of Maryland (UMD),88400,101400,1,1
+47,Miami University,91400,121700,1,2
+48,Kettering University,92500,204000,0,2
+49,Tulane University,92200,226600,0,1
+50,Wake Forest University,97500,181400,0,1
+51,Missouri University of Science and Technology (MST),93200,84670,1,2
+52,Loyola University Maryland,97600,179400,0,1
+53,Illinois Institute of Technology (IIT),96300,183800,0,2
+54,University of Florida (UF),84300,70150,1,1
+55,University of Texas (UT) - Austin,87500,95900,1,1
+56,University of Connecticut (UConn),87700,99350,1,3
+57,Michigan Technological University,90100,93910,1,2
+58,Davidson College,101000,170200,0,1
+59,University of Wisconsin (UW) - Madison,87400,83120,1,2
+60,University of Washington (UW),86500,86820,1,4
+61,Pennsylvania State University (PSU),83900,117700,1,3
+62,Whitman College,82000,168500,0,4
+63,University of Colorado - Boulder (UCB),91600,98710,1,4
+64,Ohio Wesleyan University (OWU),90100,192300,0,2
+65,Stony Brook University,90800,83490,1,3
+66,University of Denver,83700,213000,0,4
+67,Washington State University (WSU),82400,91490,1,4
+68,Iowa State University,83500,82420,1,2
+69,University of Massachusetts (UMass) - Lowell,91100,84470,1,3
+70,Oregon State University (OSU),89800,84120,1,4
+71,Seattle University,82100,185200,0,4
+72,University of Minnesota,83000,96230,1,2
+73,Gonzaga University,81600,147100,0,4
+74,University of Arizona,84700,82610,1,4
+75,Western Washington University,78600,79310,1,4
+76,University of Idaho,77000,77090,1,4
+77,Arizona State University (ASU),81600,83250,1,4
+78,University of Utah,81700,79570,1,4
+79,Colorado College (CC),87100,176200,0,4
+80,South Dakota School of Mines & Technology,89800,69990,1,2
+81,Colorado State University (CSU),79300,74070,1,4
+82,University of Wyoming (UW),80100,69800,1,4
+83,Pacific Lutheran University,74900,169200,0,4
+84,University of Colorado - Denver,84500,56970,1,4
+85,Willamette University,78200,197100,0,4

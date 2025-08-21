@@ -1,0 +1,11 @@
+Package: ISA391ClassPackage
+Type: Package
+Title: ISA 391 Class Package
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A starter package for regression class. Includes datasets and empty folders 
+    for students to add their own homework, quiz, dae, and exam files.
+License: MIT
+Encoding: UTF-8
+LazyData: true
