@@ -1,0 +1,48 @@
+---
+title: "Midterm Exam #1"
+author: "Write Your Name"
+date: "2025-08-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question 1
+
+Type your answer here.
+
+```{r}
+# Type your code here.
+x <- 2 + 3
+x
+```
+
+Type your answer here.
+
+## Question 2
+
+### (a)
+
+Type your answer here.
+
+```{r}
+# Type your code here.
+x <- 2 + 3
+x
+```
+
+Type your answer here.
+
+### (b)
+
+Type your answer here.
+
+```{r}
+# Type your code here.
+x <- 2 + 3
+x
+```
+
+Type your answer here.
